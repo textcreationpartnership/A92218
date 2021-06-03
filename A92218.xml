@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons against the exportation of wooll</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92218</idno><idno type="EEBO-CITATION">99900095</idno>
+  <idno type="VID">133366</idno>
+  <idno type="EEBO-PROQUEST">2264171863</idno>
+  
+            <idno type="STC">Wing R476H</idno>
+            <idno type="STC">ESTC R232129</idno>
+            <idno type="PROQUEST">99900095</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99900095e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92218)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133366)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2517:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons against the exportation of wooll</title>
+               </titleStmt>
+               <extent>2 sheets (versos blank)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the Columbia University Library, New York, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Wool industry --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Commerce --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:133366:1"/>
+            <head>Reasons against the Exportation of Wooll.</head>
+            <p n="1">1. BEcause it is expresly contrair to Our Laws and Act of Parliament, <hi>Ja.</hi> 6. <hi>P.</hi> 7. <hi>C.</hi> 113 p. 12. <hi>C.</hi> 129. <hi>P.</hi> 15. <hi>C.</hi> 250. <hi>Car.</hi> 2. <hi>p.</hi> 11. <hi>Ses.</hi> 1. <hi>C.</hi> 40. <hi>p.</hi> 3. <hi>C.</hi> 12,</p>
+            <p n="2">2. It is contrair to the practice of other well governed Nations, as <hi>England</hi> especially, who by strict prohibition of the Exportation of Wooll, have made themselves Masters of the Manufactory of Woollen Cloaths; which is the chief prop of their Riches and power.</p>
+            <p n="3">3. It is the Interest of all Nations; especially of these who have many idle hands, to Manufacture their Native Product; so that thereby, when it is Exported, it may Produce a greater Return, than the Native Product could do, if not Manufactured; and several Manufacturies of Wool, will exceed the value of the Wooll, not Manufactured by 3. 4, 5, <hi>&amp;c.</hi> Yea, to 10, or 20. times the value, all which is so much loss to the Nation, if the Wooll be Exported not Manbfactured.</p>
+            <p n="4">4. A multitude of hands will want work, and consequently Meat, and so must starve; as manie Thousands in <hi>Scotland</hi> have, since the Wooll was Exported.</p>
+            <p n="5">5. Without this, we have not Goods exportable to the value of the Goods imported; and consequently the Nation must fall into Decay, and in a short time be exhausted, and all our money must be drained, to make a Ballance twixt the Export and Import; where<g ref="char:EOLhyphen"/>as by prohibiting the Export of our own Wooll, all the people, who are willing to work it, will be imployed, and subsist; the idle will be encouraged to work, the Wooll will return 3. 4, 5. times its value, yea, o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tentimes 10. values and more; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e money now sent abroad, for Manufactured Wool, will be keeped at home, or imployed on an other Trade when Forraign Wollen Manufacturie is prohibited to be imported, Audit Native Wool either be altogether, or most part Exported, it is probable, if not certain, that the third part of the Nation must go Naked.</p>
+            <div type="part">
+               <head>Objections against the prohibition of Exportation of Wool.</head>
+               <p n="1">1. <hi>OBjection,</hi> It is unjust and Tyrranical, and an Encroachment on the propertie of the the Subject, to impede his using of his own, and to put a restraint on the Ex<g ref="char:EOLhyphen"/>port of one Native Product more than any other <hi>Ex. Gra.</hi> to prohibit Ex<g ref="char:EOLhyphen"/>portation of Wooll, more than of Victual, Fish, <hi>&amp;c.</hi> is unequal and unjust.</p>
+               <p>
+                  <hi>Answer,</hi> It is a good office in Magistrats, to hinder any person to abuse their own Go<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> yea, by legal and honest methods to induce and oblidge every man to make a good use of his own, and the <hi>Commonwell</hi> or <hi>patria</hi> hath an Interest and Title, in all the persons within the <hi>Commonwealth,</hi> and in all the Goods belonging to them; and there<g ref="char:EOLhyphen"/>by a transcendent Title over our Persons and Estates; when the Common and Universal Good requires, either to preserve from evil, or to do good; but so it is, that to Export Native Commoditie (as Wooll) before it be Manufactured hath all the evils in it, menti<g ref="char:EOLhyphen"/>oned in the Reasons against the Exportation thereof, and the Manufacturing of Wool, be<g ref="char:EOLhyphen"/>fore it be Exported, will imploy many idle Hands, and feed many hungry Bellies, and double or <hi>quintuble</hi> the value of Export; and therefore the Magistrates had good right or rather are oblidged, to prohibit the Export Unmanufactured. And the Magistrates there<g ref="char:EOLhyphen"/>by may oblidge the Havers of the Wooll, to Manufacture it themselves, or to give it to those of the Country who will do it, for the advantage of the <hi>Commonwell.</hi>
+               </p>
+               <p>So the Wooll is not prohibited to be Exported, but the Exportation is only Stopt till the Owner of the Wooll, or some other <hi>Scotsman,</hi> make its Export much more valuable, and advantagious to the Nation. Therefore none must be Exported, until it be Manufactured. The Owner may Manufacture it: if he will not, <hi>Scotland</hi> must not loss that adavantage for his neglect. But still the Wooll is Exported (if Unmanufactured) at a single value; if Manufactured, at a double, perhaps at more.</p>
+               <p>Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Parallel betwixt the Freedom of Exporting Victual, and the Exporingt of Wool, is altoge<g ref="char:EOLhyphen"/>ther i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>epte, if not worse; for tho both be native Products, yet the Wool may undergo many kinds of Manufactory before it be Exported; which will render its Export much more Bene<g ref="char:EOLhyphen"/>ficial to the Nation; but Victual cannot be so Manufactured, as that by the Export of it, the Nation may be Advantaged: But on the contrair. The same is to be said of Fish, Flesh, <hi>&amp;c.</hi> all which cannot be brought in parallel with any Native Product, that can be Manufactured with Advantage for Export.</p>
+               <p n="2">2. Obj<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct, <hi>The Nation cannot consume the Native Product of Wool.</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> It is above a 100 years, since the Export of Wool was Prohibited; and it is with<g ref="char:EOLhyphen"/>in this 14. years, that any considerable quantity of Wool was Exported, so that for a 100 years, the Wool of the Nation was Manufactured within the Nation, and yet the Number of People, and the Trade of the Nation is rather Increased, than Decreased; So if it was Manufactured then; much more now. 2. The Prohibition of the Import of any Wool Manufacture, will necessitate the greater consumpt at Home. 3. It's the publick Interest, that the Subjects be necessitate to work and travel for the Common-Good and
+<pb n="2" facs="tcp:133366:2"/> if the Wool cannot be Exported, People will work it, for so <hi>England</hi> did force their Peo<g ref="char:EOLhyphen"/>ple, into that great and excellent Manufactory of Woollen Cloath.</p>
+               <p n="3">3. Object. <hi>The Workers of Wool will set the dice on Sellers to the Sellers Loss.</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> If any Person, or a few Persons in the Nation had the sole priviledge of Manu<g ref="char:EOLhyphen"/>facturing of Wool; This Argument might infer the prescription of a Price, but would not prove, that the Magistrats should not hinder the Export until it were Manufactured: But since there is no such Monopoly of the Manufactury, the Danger is imaginary; for all having liberty to work, the Price of the Manfactured Goods, whither they be consumed in the Country, or vented by Export, will always give a Law, and Regulate the Price of the Wool in a just proportion, and still there is no impediment on the Owners of the Wool to Manufacture it themselves, or to have People to do it for them.</p>
+               <p n="4">4. Ob. <hi>Why should not Scots Men give as much to the Sellers of Wool, as others do?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Since Wool may be Manufactured to a great Advantage, it's the Magistrats Inte<g ref="char:EOLhyphen"/>rest and Duty to make <hi>Scots</hi> Men to have that Gain: especially since there are some <hi>Scots</hi> Men that want Work and Provision; and likeways to forsee what designs Forraigners may have, in advancing the Price of our Wool <hi>Ex. Gr.</hi> if rhey see, that Forraigners would have that Manufactory taken from among our People; that they might give it to their own People, and thereby to Feed their People, whilst ours would Starve; and En<g ref="char:EOLhyphen"/>haunce to themselves, the Value of the Manufacturing; which may be five or six times the Value of the Wool: and deprive the Nation thereof: and for that end, it may be very probable that a wise Nation will Double, yea Triple the Valne of the Wool, for a while; that thereby they may once bring the Manufactory to their own hands; and either Starve, or dissipate our Workmen; that thereafter rhey may oblige us to Sell the Wool to them, at their pleasure; after we have uncapacitated our selves, to Manufacture it at home; as it is said both the <hi>French,</hi> and <hi>Swedish</hi> Kings do at present, in this very matter; On this Fore<g ref="char:EOLhyphen"/>sight, it were the Duty of the <hi>Scots</hi> Magistrats, to Disapoint the Forraigners Design, which would be so Destructive to this Nation; and to hinder the Wool Sellers from a temporary Gain; with the same Justice, that he should hinder our Corn to be Exported to Feed For<g ref="char:EOLunhyphen"/>raigners, whilest the People at Home were Starving by that Export.</p>
+               <p>Ob. <hi>That the Prohibition of the Export of Wool will deprive the Nation of an advantagious Trade,</hi> viz. <hi>of Exporting the</hi> English <hi>Wool to</hi> France, <hi>and other places.</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> The Advantage by Exporting of <hi>English</hi> accresses to a very few, and very little knowing Persons; Whereas the Loss by export of our own Wool is National: 2. The total of that Gain will come to no great Sum, and will not by many Thousand times ballance the Loss we can have by the exportation of our own Wool. 3. Under the pretence of exporting <hi>English</hi> Wool, our own Wool will be carried away. 4. This Objection con<g ref="char:EOLhyphen"/>tradicts the Wool Sellers their own strongest objecting, <hi>viz.</hi> That <hi>Scotland</hi> cannot consume our own Wool, and that Forraigners gives a great Price for our Wool, which (as they say) will be a great Loss; now if we export <hi>English</hi> Wool to these places they will care the less for our Wool, and if we have more Wool then we can consume, then we should Manu<g ref="char:EOLhyphen"/>facture it, and send it abroad: But if we Furnish these places with <hi>English</hi> Wool they will make Manufacturie to themselves, and not care for our Manufactorie. And this is so sad a Truth, that as the exporting of our own Wool hath Sta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ved our Work People, and Fur<g ref="char:EOLhyphen"/>nished Wool to Foraigners to hinder their buying of our own Goods; So the exporting of <hi>English</hi> Wool makes the Forraigners both the less need our Wool and Manufacturie, and particularly, <hi>Swedden</hi> has set up Manufacturies of the Wool we sell to them, and late<g ref="char:EOLhyphen"/>ly Cloathed a whole Regiment at <hi>Stockholm</hi> with it, at which there was a publick Rejoyc<g ref="char:EOLhyphen"/>ing as at a new Conquest; But yet that very Cloath cost them thrice the Value of what Forraign Cloath did cost there. But the King did Repair that Loss to them to incourage them to persist, well knowing that in short time when we had lost the Manufacturie, they could set the Dytes upon our Wool; It is a Demonstration of their Prudence, and our Folly.</p>
+               <p>Albeit we had no regard for <hi>England,</hi> yet for our own sake, we should not Export their Wool to furnish Forraign Manufacturie, especially if it be true that we have more, Wool of our own than we can consume; for we should desire that Forraigners had no Wool carried to them, that so they might buy our Manufacturie.</p>
+               <p>The truth is we should rather Import <hi>English</hi> Wool not to Export it in Wool, But t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Manufacture it first and then to Export it.</p>
+               <p>Yet the Wool Sellers will not at present allow us this advantage, for a pretended Fear that <hi>Scotland</hi> cannot Manufacture all its own Wool. This I do not believe, because <hi>Scot<g ref="char:EOLhyphen"/>land</hi> hath for many Years Manufuactured all its own Wool, when Forraign Wool Manu<g ref="char:EOLhyphen"/>facturies was abundantly Imported, and therefore cannot but do so now when all Forraign Wool Manufactories is Prohibit.</p>
+               <p>I little d ubr but that a short Experience will shew that we may Import <hi>English</hi> Wool, without loss to our own, because we will have Hands enough to work all our own, and all that we steal from <hi>England</hi> beside, but our Wool Sellers fears hinders us at present, until a Year or two's Expense convince them and the Nation.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
